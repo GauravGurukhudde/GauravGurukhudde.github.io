@@ -290,7 +290,7 @@ body {
 	cursor: pointer; 
 	letter-spacing: 1px; 
 	border: none; 
-} 
+} */
 
 .common-btn { 
 	background-color: #35A99C; 
@@ -306,7 +306,7 @@ body {
 	outline: none; 
 } 
 
-.ghost-btn { 
+/*.ghost-btn { 
 	background-color: #fff; 
 	color: #35A99C; 
 	border: 2px solid #35A99C; 
@@ -318,7 +318,7 @@ body {
 	color: #fff; 
 	transition: all 0.25s; 
 	border: 2px solid #35A99C; 
-} 
+} */
 
 .heading-span { 
 	font-weight: bolder; 
